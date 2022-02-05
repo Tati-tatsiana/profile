@@ -33,7 +33,7 @@ a:hover {
   border-radius: 4px;
   margin: 20px 60px;
   text-align: center;
-  color: rgb(255,250,250);S
+  color: rgb(255,250,250);
 }
 
 .list-inline {
@@ -51,6 +51,7 @@ a:hover {
   height: 300px;
   border-radius:150px;
   object-fit:cover;
+  box-shadow: 0 10px 2px rgba(0,0,0,0.2);
 }
 
 .button {
