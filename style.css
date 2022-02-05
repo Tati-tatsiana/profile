@@ -53,5 +53,6 @@ a:hover {
 }
 
 .button {
-  background-color: rgb(136, 136, 219);
+  color: white;
+  background-image: linear-gradient(to right, #EECDA3 0%, #EF629F 51%, #EECDA3 100%);
 }
