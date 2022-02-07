@@ -68,6 +68,12 @@ a:hover {
   cursor: pointer;
 }
 
+.button:hover {
+  background-position: right center;
+  color: #fff;
+  text-decoration: none;
+}
+
 p {
   font-family: "Montserrat";
   font-weight: 500;
