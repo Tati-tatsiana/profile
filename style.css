@@ -25,7 +25,6 @@ a:hover {
 
 .container {
   margin: 40px auto;
-  display:flex;
 }
 
 .card-white {
@@ -93,4 +92,10 @@ p {
 .education h2 {
   text-align: center;
   font-size: 2rem;
+}
+
+.containerD {
+  margin: 40px auto;
+  display:flex;
+  flex-direction: column;
 }
