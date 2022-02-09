@@ -99,3 +99,18 @@ p {
   display:flex;
   flex-direction: column;
 }
+
+.certifications h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.hardskills h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.softskills h2{
+  text-align: center;
+  font-size: 2rem;
+}
