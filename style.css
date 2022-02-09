@@ -83,3 +83,14 @@ p {
 #flags {
   font-size: 25px;
 }
+
+.experience h2 {
+  text-align: center;
+}
+
+.bloc {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  height: 100%;
+}
