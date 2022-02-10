@@ -34,6 +34,7 @@ a:hover {
   border-radius: 4px;
   margin: 20px 60px;
   text-align: center;
+  border-radius: 30px;
 }
 
 .list-inline {
@@ -95,9 +96,9 @@ p {
 }
 
 .containerD {
+  display: flex;
+  flex-direction: row;
   margin: 40px auto;
-  display:flex;
-  flex-direction: column;
 }
 
 .certifications h2 {
@@ -113,4 +114,21 @@ p {
 .softskills h2{
   text-align: center;
   font-size: 2rem;
+}
+
+.info h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+h3, h4, h5, h6 {
+  font-size: 1.25rem;
+}
+
+#image {
+  width: 20%;
+}
+
+li {
+  font-family: 16px;
 }
